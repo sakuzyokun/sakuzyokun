@@ -5,6 +5,7 @@
 - 📫 How to reach me sakuzypkun.sakuzyo0606@gmail.com
 - 😄 Pronouns: sakuzyokun 削除くん
 - ⚡ Fun fact: I can program. I'm Japanese.
+- https://www.youtube.com/@sakuzyokun.sakuzyo0606
 
 <!---
 sakuzyokun/sakuzyokun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
