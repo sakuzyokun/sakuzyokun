@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML and Arduino
-- 📫 How to reach me sakuzypkun.sakuzyo0606@gmail.com
+- 📫 How to reach me sakuzyokun.sakuzyo0606@gmail.com
 - 😄 Pronouns: sakuzyokun 削除くん
 - ⚡ Fun fact: I can program. I'm Japanese.
 - https://www.youtube.com/@sakuzyokun.sakuzyo0606
