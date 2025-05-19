@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakuzyokun
+# 👋 Hi, I’m @sakuzyokun
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML and Arduino
@@ -8,12 +8,12 @@
 - https://www.youtube.com/@sakuzyokun.sakuzyo0606
 ***
 # Main language used
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,cpp,py)](https://skillicons.dev)
 - HTML ``<!DOCTYPE HTML>``
 - JavaScript ``<script>``
 - CSS ``body{}``
 - C series ``#include <test.h>``
-***
-# 
+- Python ``import test``
 
 <!---
 sakuzyokun/sakuzyokun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
