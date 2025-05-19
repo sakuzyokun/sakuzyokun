@@ -6,6 +6,14 @@
 - 😄 Pronouns: sakuzyokun 削除くん
 - ⚡ Fun fact: I can program. I'm Japanese.
 - https://www.youtube.com/@sakuzyokun.sakuzyo0606
+***
+# Main language used
+- HTML ``<!DOCTYPE HTML>``
+- JavaScript ``<script>``
+- CSS ``body{}``
+- C series ``#include <test.h>``
+***
+# 
 
 <!---
 sakuzyokun/sakuzyokun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
