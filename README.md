@@ -5,6 +5,8 @@
 - 📫 How to reach me sakuzyokun.sakuzyo0606@gmail.com
 - 😄 Pronouns: sakuzyokun 削除くん
 - ⚡ Fun fact: I can program. I'm Japanese.
+- **⚠ 僕が作ったアプリをあなた自身の作品であると主張しないでください。**
+- **⚠ Please don't claim that the app I made is your own creation.**
 - https://www.youtube.com/@sakuzyokun.sakuzyo0606
 ***
 # Main language used
