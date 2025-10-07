@@ -1,23 +1,43 @@
-# 👋 Hi, I’m @sakuzyokun
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on HTML and Arduino
-- 📫 How to reach me sakuzyokun.sakuzyo0606@gmail.com
-- 😄 Pronouns: sakuzyokun 削除くん
-- ⚡ Fun fact: I can program. I'm Japanese.
-- **⚠ 僕が作ったアプリをあなた自身の作品であると主張しないでください。**
-- **⚠ Please don't claim that the app I made is your own creation.**
-- https://www.youtube.com/@sakuzyokun.sakuzyo0606
-***
-# Main language used
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,cpp,py)](https://skillicons.dev)
-- HTML ``<!DOCTYPE HTML>``
-- JavaScript ``<script>``
-- CSS ``body{}``
-- C series ``#include <test.h>``
-- Python ``import test``
+# 💻 削除くん | Sakuzyokun
 
-<!---
-sakuzyokun/sakuzyokun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm **削除くん (Sakuzyokun)** — a developer who loves tinkering with PCs, creating Windows apps, and messing around with Arduino ⚡  
+日本語でも英語でもOK！気軽にどうぞ 🙌
+
+---
+
+## 🚀 About Me
+- 💻 Windowsアプリ開発中（C / C# / WinForms）
+- ⚙️ 電子工作好き（Arduino / ESP32 / センサー）
+- 🌐 Webいじり大好き（HTML / CSS / JavaScript）
+- 🧠 最近ハマってる：棒読みちゃん・VOICEVOX・自作ツール開発
+
+---
+
+## 🧩 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,py,arduino,github,vscode,windows)](https://skillicons.dev)
+
+---
+
+## 📺 Links
+
+🎥 **YouTube:** [@sakuzyokun.sakuzyo0606](https://www.youtube.com/@sakuzyokun.sakuzyo0606)
+📧 **Contact:** [sakuzyokun.sakuzyo0606@gmail.com](mailto:sakuzyokun.sakuzyo0606@gmail.com)
+
+---
+
+## ⚠️ Important Notice
+
+> **僕が作ったアプリをあなた自身の作品であると主張しないでください。**
+> **Please don’t claim my apps as your own creations.** 🙅‍♂️
+
+---
+
+## 😄 Fun Fact
+
+* I can write C, C#, Python, HTML, and more... but still forget semicolons sometimes 😅
+* I know too much about Windows (maybe too much 💀)
+* 一番好きなOSは **Windows 7**, でも **Windows 11** もちゃんと使ってるよ！
+
+---
+
+⭐ *“Programming is not just code — it’s art, logic, and a bit of chaos.”*
